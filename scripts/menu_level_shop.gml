@@ -1,0 +1,10 @@
+obj_Main_Menu_Level_Selector_Left.visible = !argument0;
+obj_Main_Menu_Level_Selector_Right.visible = !argument0;
+obj_Main_Menu_Level_Image.visible = !argument0;
+obj_Main_Menu_Level_Play.visible = !argument0;
+obj_Main_Menu_Level_Buy.visible = argument0;
+obj_Main_Menu_Level_Sell.visible = argument0;
+obj_Main_Menu_Stripe.visible = argument0;
+obj_Main_Menu_Shop_Switch.visible = argument0;
+obj_Main_Menu_Shop_Left.visible = argument0;
+obj_Main_Menu_Shop_Right.visible = argument0;
